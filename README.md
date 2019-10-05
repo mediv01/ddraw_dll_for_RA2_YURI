@@ -1,2 +1,5 @@
 # ddraw_dll_for_RA2_YURI
 ddraw_dll_for_RA2_YURI
+红色警戒2 尤里的复仇 显卡加速组件 ddraw.dll
+github已经有c的源代码了，考虑到大部分人并不会make file编译，所以我直接放上binary的DLL
+放在根目录即可
